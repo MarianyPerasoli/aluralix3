@@ -1,0 +1,5 @@
+
+body {
+    color: rgb(86, 24, 122);
+    background: rgb(28, 25, 37) ;
+}
